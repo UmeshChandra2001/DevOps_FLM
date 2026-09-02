@@ -1092,4 +1092,6 @@
           <p>Cookie Policy</p>
           <p>Accessibility</p>
         </div>
-      </div
+      </div>
+      <div class="footer-bottom">
+        &copy; <
