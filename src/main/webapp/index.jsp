@@ -1094,4 +1094,4 @@
         </div>
       </div>
       <div class="footer-bottom">
-        &copy; <span id="year
+        &copy; <span id="2014
