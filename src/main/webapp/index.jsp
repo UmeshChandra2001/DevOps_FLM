@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NexusShopping · Modern Lifestyle Store</title>
+  <title>E-COM_Shopping · Modern Lifestyle Store</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
@@ -50,7 +50,7 @@
   <!-- HEADER -->
   <header>
     <div class="header-inner">
-      <a href="#" class="brand"><i class="fas fa-store"></i> NexusShopping</a>
+      <a href="#" class="brand"><i class="fas fa-store"></i> E-COM_Shopping</a>
       <nav>
         <ul>
           <li><a href="#">Home</a></li>
@@ -69,7 +69,7 @@
 
   <!-- HERO -->
   <section class="hero">
-    <h1>Welcome to NexusShopping</h1>
+    <h1>Welcome to E-COM_Shopping</h1>
     <p>Your one-stop destination for fashion, electronics, and lifestyle essentials.</p>
     <a href="#products" class="btn btn-primary">Shop Now</a>
     <a href="#deals" class="btn btn-outline">View Deals</a>
@@ -116,7 +116,7 @@
 
   <!-- FOOTER -->
   <footer>
-    <p>&copy; 2026 NexusShopping · All Rights Reserved</p>
+    <p>&copy; 2026 E-COM_Shopping · All Rights Reserved</p>
     <div class="social">
       <a href="#"><i class="fab fa-facebook-f"></i></a>
       <a href="#"><i class="fab fa-twitter"></i></a>
