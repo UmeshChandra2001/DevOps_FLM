@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>E-COM-SHOP · Modern Lifestyle Store</title>
+  <title>NEXUSHOP · Modern Lifestyle Store</title>
   <!-- Google Fonts + Font Awesome -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
@@ -325,7 +325,7 @@
   <!-- ========== HEADER ========== -->
   <header>
     <div class="header-inner">
-      <a href="#" class="brand"><i class="fas fa-store"></i> E-COM-SHOP</a>
+      <a href="#" class="brand"><i class="fas fa-store"></i> NEXUSHOP</a>
       <nav>
         <ul>
           <li><a href="#">Home</a></li>
@@ -345,7 +345,7 @@
 
   <!-- ========== HERO ========== -->
   <section class="hero">
-    <h1>Welcome to E-COM-SHOP</h1>
+    <h1>Welcome to NEXUSHOP</h1>
     <p>Your one-stop destination for fashion, electronics, and lifestyle essentials.</p>
     <a href="#products" class="btn btn-primary">Shop Now</a>
     <a href="#deals" class="btn btn-outline">View Deals</a>
@@ -517,7 +517,7 @@
     <div style="max-width:900px;margin:0 auto;text-align:center;">
       <h2 style="font-weight:700;font-size:2rem;">Our Story</h2>
       <p style="color:#555;max-width:600px;margin:12px auto;line-height:1.6;">
-        E-COM-SHOP was born from a love for modern design and quality.
+        NEXUSHOP was born from a love for modern design and quality.
         We curate products that blend style with function — from fashion to tech,
         every piece is chosen to elevate your everyday.
       </p>
@@ -531,7 +531,7 @@
 
   <!-- ========== FOOTER ========== -->
   <footer>
-    <p>&copy; 2026 E-COM-SHOP · All Rights Reserved</p>
+    <p>&copy; 2026 NEXUSHOP · All Rights Reserved</p>
     <div class="social">
       <a href="#"><i class="fab fa-facebook-f"></i></a>
       <a href="#"><i class="fab fa-twitter"></i></a>
