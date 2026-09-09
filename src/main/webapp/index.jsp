@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>USHOPVPAY · Modern Lifestyle Store</title>
+    <title>UBook_Vpay · Modern Lifestyle Store</title>
     <!-- Google Fonts + Font Awesome -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
@@ -1876,7 +1876,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2026 USHOPVPAY · All Rights Reserved</p>
+                <p>&copy; 2026 UBook_Vpay · All Rights Reserved</p>
                 <div class="social-links">
                     <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
                     <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
@@ -2050,7 +2050,7 @@
 
             // ---- Hero badge animation (already CSS) ----
 
-            console.log('USHOPVPAY · Modern Lifestyle Store loaded ✨');
+            console.log('UBook_Vpay · Modern Lifestyle Store loaded ✨');
 
         })();
     </script>
